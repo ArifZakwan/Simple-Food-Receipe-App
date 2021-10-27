@@ -1,4 +1,4 @@
-# shoppinglistapp
+# Simple Food Receipe App
 
 A new Flutter project.
 
